@@ -12,3 +12,5 @@ The datasets from http://celltrackingchallenge.net/2d-datasets/ should be downlo
 
     DIC-C2DH-HeLa
     PhC-C2DH-U373
+
+![](example-h.gif)
